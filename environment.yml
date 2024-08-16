@@ -1,0 +1,11 @@
+name: forecasting
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - ipykernel
+  - sqlalchemy
+  - psycopg2
+  - pydantic
+  - pandas
+  - geopandas
